@@ -1,0 +1,1 @@
+download MNIST dataset (the one used in UFLDL) to this folder.
